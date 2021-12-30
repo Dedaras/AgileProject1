@@ -1,5 +1,8 @@
-# AgileProject1
+# AgileProject
 ## Faculty learning management System 
+#### Name:Mohamed Ahmed Mohamed Badr 
+#### ID: 18P8994
+### Team members:
 ### Front end team members
 #### Name: Mohamed Ahmed Mohamed Badr
 
