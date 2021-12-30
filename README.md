@@ -52,13 +52,30 @@ Students of the faculty
 Advisors (Teachers)
 
 ### Near Vison for tyhe first 2 Sprints
-## Sprint 1:
+#### Sprint 1:
 
 in this sprint the developers must create a prototype for the student website from scratch using there coding skills to create a user friendly interface that is simple to use and build the back-end and the database of the website for the student website
 
 ## Sprint 2:
 
 in this sprint the developers must create a prototype for the student website from scratch using there coding skills to create a user friendly interface that is simple to use and build the back-end and the database of the website for the teachers website
+
+## Product Backlog 
+### Sprint info
+
+i estimated that the team can do 50 story points at a sprint using modified fibonacci
+
+5 very small story 
+8 small story
+13 medium story 
+20 large story 
+40 giant story 
+
+## Workflow design rationale 
+
+for the rationale behind this diagram is the Test-Driven Developement which is is software development approach in which test cases are developed to specify and validate what the code will do. 
+
+
 
 
 
