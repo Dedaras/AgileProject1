@@ -124,6 +124,14 @@ for the rationale behind this diagram is the Test-Driven Developement which is s
 | team member 2  | What is your goal today? What did you do yesterday? | I will work on the student website UI  I worked on the student website UI (The scene part)                             |
 | team member 3  | What is your goal today? What did you do yesterday  | I will work on the student website Backend (The f2 fuction) I worked on the student website Backend (The f1 function)  |
 
+#### Sprint 2 
+
+| Team member    | Question                                            | answer                                                                                                                 |
+|----------------|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| team member 1  | What is you goal today? What did you do yesterday?  | I will work on the database of the teacher website I worked on the teacher website database create tables query        |
+| team member 2  | What is your goal today? What did you do yesterday? | I will work on the teacher website UI  I worked on the Teacher website UI (The scene part)                             |
+| team member 3  | What is your goal today? What did you do yesterday  | I will work on the teacher website Backend (The f2 fuction) I worked on the teacher website Backend (The f1 function)  |
+
 
 
 
