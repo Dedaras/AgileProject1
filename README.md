@@ -115,16 +115,16 @@ for the afr vision we need to complete the 2 websites to be completed (secured, 
 
 for the rationale behind this diagram is the Test-Driven Developement which is software development approach in which test cases are developed to specify and validate what the code will do. 
 
-### Sprint document:
-#### Sprint 1
-Sprint goal:
-
-### Daily SCRUM document 
-#### Sprint 2
+## Sprint document:
+### Sprint 2
 #### Sprint goal: to create a prototype website for the teacher website
 #### Sprint backlog: mentioned in the word document using screen shots 
 #### Epics to be delivered: there is no epics that will be done 
 #### Progress of the previous sprint: create a prototype for the student website 
+
+## Daily SCRUM document 
+
+#### Sprint 1
 
 | Team member    | Question                                            | answer                                                                                                                 |
 |----------------|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
