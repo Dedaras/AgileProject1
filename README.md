@@ -5,8 +5,7 @@
 
 #### Role: web developper 
 
-#### Experience:JavaScript,HTML,CSS, familiar with UI/UX design, good communication skills, good team leading experiences, have a computer engineering bachelor from 
-ain shams university, Front-end course by Sprints 
+#### Experience:JavaScript,HTML,CSS, familiar with UI/UX design, good communication skills, good team leading experiences, have a computer engineering bachelor from ain shams university, Front-end course by Sprints 
 
 
 #### Name: Omar Tamer Hamza 
