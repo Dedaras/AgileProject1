@@ -1,6 +1,6 @@
 # AgileProject1
 ## Faculty learning management System 
-### Front end team 
+### Front end team members
 Name: Mohamed Ahmed Mohamed Badr
 Role: web developper 
 Experience:JavaScript,HTML,CSS, familiar with UI/UX design, good communication skills, good team leading experiences, have a computer engineering bachelor from ain shams university, Front-end course by Sprints 
@@ -16,6 +16,19 @@ Experience: Flutter, Dart, good programming skills, worked as a software enginee
 Name: Youssef Mohamed Adel 
 Role: Web developper 
 Experience: 6 years of experience in Delta company, good communicatio skills, HTML, CSS, JavaScript, have a computer engineering bachelor from MTI university
+
+### Back-end team members 
+Name: Mohamed Ahmed Fawzy 
+Role: DataBase designer 
+Experiences: MySQL, SQL, Firebase, good communication skills, good team leader, have a computer science degree from ain shams university, worked as a database designer at google company for 2 years, worked as a database designer at microsoft company for 3 years, 5 years of experience 
+
+Name: Ahmed Hesham Mahdy 
+Role:  API Integrator
+Experiences: API Integrator in google company for 1 year, have a computer science degree from cairo university, PHP, Javascript, JQuery, 5 years of experience in API integrating
+
+Name: Ammar Mohamed Alaa 
+Role: Developper 
+Experiences: C++, C, Python, Java, R, good communication skills, good team leader, have a computer science degree from MIU university, worked as a Ml Obs at google company for 2 years, worked as a Datascientist at microsoft company for 1 years, 3 years of experience
 
 
 
