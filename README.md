@@ -119,7 +119,7 @@ for the rationale behind this diagram is the Test-Driven Developement which is s
 
 | Team member    | Question                                            | answer                                                                                        |
 |----------------|-----------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| team member 2  | What is you goal today? What did you do yesterday?  | I will work on the database of the student website I worked on the teacher website database   |
+| team member 1  | What is you goal today? What did you do yesterday?  | I will work on the database of the student website I worked on the teacher website database   |
 | team member 2  | What is your goal today? What did you do yesterday? | I will work on the teacher website UI I worked on the student website UI                      |
 | team member 3  | What is your goal today? What did you do yesterday  | I will work on the student website Backend using C++ I worked on the teacher website Backend  |
 
