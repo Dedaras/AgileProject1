@@ -46,5 +46,20 @@ Role: Product Owner
 Name: Abdelghafoor Elborie
 Role: SCRUM master
 
+### StakeHolders
+Teaching stuff
+Students of the faculty
+Advisors (Teachers)
+
+### Near Vison for tyhe first 2 Sprints
+## Sprint 1:
+
+in this sprint the developers must create a prototype for the student website from scratch using there coding skills to create a user friendly interface that is simple to use and build the back-end and the database of the website for the student website
+
+## Sprint 2:
+
+in this sprint the developers must create a prototype for the student website from scratch using there coding skills to create a user friendly interface that is simple to use and build the back-end and the database of the website for the teachers website
+
+
 
 
