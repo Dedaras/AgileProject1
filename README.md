@@ -116,13 +116,13 @@ for the afr vision we need to complete the 2 websites to be completed (secured, 
 for the rationale behind this diagram is the Test-Driven Developement which is software development approach in which test cases are developed to specify and validate what the code will do. 
 
 ### Daily SCRUM document 
+#### Sprint 1
 
-| Team member    | Question                                            | answer                                                                                        |
-|----------------|-----------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| team member 1  | What is you goal today? What did you do yesterday?  | I will work on the database of the student website I worked on the teacher website database   |
-| team member 2  | What is your goal today? What did you do yesterday? | I will work on the teacher website UI I worked on the student website UI                      |
-| team member 3  | What is your goal today? What did you do yesterday  | I will work on the student website Backend using C++ I worked on the teacher website Backend  |
-
+| Team member    | Question                                            | answer                                                                                                                 |
+|----------------|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| team member 1  | What is you goal today? What did you do yesterday?  | I will work on the database of the student website I worked on the student website database create tables query        |
+| team member 2  | What is your goal today? What did you do yesterday? | I will work on the student website UI  I worked on the student website UI (The scene part)                             |
+| team member 3  | What is your goal today? What did you do yesterday  | I will work on the student website Backend (The f2 fuction) I worked on the student website Backend (The f1 function)  |
 
 
 
