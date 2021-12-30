@@ -77,7 +77,7 @@ i estimated that the team can do 50 story points at a sprint using modified fibo
 
 ## Workflow design rationale 
 
-for the rationale behind this diagram is the Test-Driven Developement which is is software development approach in which test cases are developed to specify and validate what the code will do. 
+for the rationale behind this diagram is the Test-Driven Developement which is software development approach in which test cases are developed to specify and validate what the code will do. 
 
 
 
